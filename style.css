@@ -1,0 +1,82 @@
+body {
+    background-color: black;
+}
+
+form {
+    width: 500px;
+    color: white;
+    font-family: 'Inter';
+    font-style: normal;
+}
+
+h1 {
+
+    color: white;
+    font-family: 'Inter';
+    font-style: normal;
+}
+
+form input {
+    border: none;
+    background: transparent;
+    color: white;
+}
+
+form label {
+
+    width: 60px;
+    height: 29px;
+    left: 202px;
+    top: 352px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+
+/* .WIDTH {
+    /* width: 500px; */
+
+
+button {
+    padding: 5px 30px;
+    border-radius: 0px;
+    width: 226px;
+    height: 58px;
+
+
+    background: #FFFFFF;
+}
+
+.FORM {
+    padding-left: 150px;
+    width: 1728px;
+    height: 1117px;
+    left: 0px;
+    top: 0px;
+
+    background: #000000;
+}
+
+h1 {
+    font-family: 'Inter';
+    font-style: normal;
+    padding-left: 10px;
+    font-weight: 400;
+    font-size: 64px;
+    margin-top: 100px;
+}
+
+input[type=date] {
+    color: transparent !important;
+}
+
+.active input[type=date] {
+    color: inherit !important;
+}
+
+Footer © 2022 GitHub,
+Inc.
